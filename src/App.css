@@ -1,0 +1,46 @@
+.creditcard{
+  display: flex; 
+  justify-content: space-around;
+  justify-content: space-around;
+  align-items:center;
+ 
+ 
+}
+.card{
+  color: white;
+  width: 40%;
+  height: 400px;
+  border: 1px solid #000;
+  border-radius: 10px;
+  background:url('https://previews.123rf.com/images/lishchyshyn/lishchyshyn1904/lishchyshyn190402620/121700238-global-planet-background-global-network-planet-earth-world-map-point-.jpg')
+  /* background:url() */
+}
+.sectionfield{
+  width: 20%;
+  display: block;
+  border: 1px solid #000;
+}
+.companytext{
+  font-size: 30px;
+  font-weight: 400;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: right;
+}
+.puceicon{
+  display: inline-block;
+  padding-left:5%;
+}
+.cardicon{
+  /* border: 1px solid #fff; */
+  width: 40%;
+  height: 50px;
+  padding-top: 0%;
+}
+
+.datecard{
+  /* border: 1px solid #fff; */
+  display: flex;
+  align-items: flex-start;
+  width: 40%;
+  margin-left: 50%
+}
